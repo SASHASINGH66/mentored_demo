@@ -1,0 +1,17 @@
+#header {
+  color: blue;
+  margin-left: 10vw;
+}
+
+.sasha-opinions {
+  color: green;
+  width: 20vw;
+  height: 20vh;
+  margin-left: 10vw;
+}
+
+.opinions {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
