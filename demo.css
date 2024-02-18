@@ -8,10 +8,19 @@
   width: 20vw;
   height: 20vh;
   margin-left: 10vw;
+  background-color: aqua;
+  padding-left: 5vw;
+  margin-bottom: 5vh;
 }
 
 .opinions {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+}
+
+#image-ant {
+  width: 10vw;
+  height: 20vh;
+  margin-left: 10vw;
 }
